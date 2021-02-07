@@ -1,0 +1,14 @@
+F:\DevRepository\CarRentalSystem\CarRentalSystem.Web\bin\Debug\netcoreapp3.1\CarRentalSystem.Web.deps.json
+F:\DevRepository\CarRentalSystem\CarRentalSystem.Web\bin\Debug\netcoreapp3.1\CarRentalSystem.Web.dll
+F:\DevRepository\CarRentalSystem\CarRentalSystem.Web\bin\Debug\netcoreapp3.1\CarRentalSystem.Web.pdb
+F:\DevRepository\CarRentalSystem\CarRentalSystem.Web\bin\Debug\netcoreapp3.1\CarRentalSystem.Domain.dll
+F:\DevRepository\CarRentalSystem\CarRentalSystem.Web\bin\Debug\netcoreapp3.1\CarRentalSystem.Domain.pdb
+F:\DevRepository\CarRentalSystem\CarRentalSystem.Web\obj\Debug\netcoreapp3.1\CarRentalSystem.Web.csprojAssemblyReference.cache
+F:\DevRepository\CarRentalSystem\CarRentalSystem.Web\obj\Debug\netcoreapp3.1\CarRentalSystem.Web.AssemblyInfoInputs.cache
+F:\DevRepository\CarRentalSystem\CarRentalSystem.Web\obj\Debug\netcoreapp3.1\CarRentalSystem.Web.AssemblyInfo.cs
+F:\DevRepository\CarRentalSystem\CarRentalSystem.Web\obj\Debug\netcoreapp3.1\CarRentalSystem.Web.csproj.CoreCompileInputs.cache
+F:\DevRepository\CarRentalSystem\CarRentalSystem.Web\obj\Debug\netcoreapp3.1\CarRentalSystem.Web.csproj.CopyComplete
+F:\DevRepository\CarRentalSystem\CarRentalSystem.Web\obj\Debug\netcoreapp3.1\CarRentalSystem.Web.dll
+F:\DevRepository\CarRentalSystem\CarRentalSystem.Web\obj\Debug\netcoreapp3.1\CarRentalSystem.Web.pdb
+F:\DevRepository\CarRentalSystem\CarRentalSystem.Web\bin\Debug\netcoreapp3.1\CarRentalSystem.Application.dll
+F:\DevRepository\CarRentalSystem\CarRentalSystem.Web\bin\Debug\netcoreapp3.1\CarRentalSystem.Application.pdb

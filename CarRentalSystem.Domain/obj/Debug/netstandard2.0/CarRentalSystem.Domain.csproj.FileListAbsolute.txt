@@ -1,0 +1,9 @@
+F:\DevRepository\CarRentalSystem\CarRentalSystem.Domain\bin\Debug\netstandard2.0\CarRentalSystem.Domain.deps.json
+F:\DevRepository\CarRentalSystem\CarRentalSystem.Domain\bin\Debug\netstandard2.0\CarRentalSystem.Domain.dll
+F:\DevRepository\CarRentalSystem\CarRentalSystem.Domain\bin\Debug\netstandard2.0\CarRentalSystem.Domain.pdb
+F:\DevRepository\CarRentalSystem\CarRentalSystem.Domain\obj\Debug\netstandard2.0\CarRentalSystem.Domain.csprojAssemblyReference.cache
+F:\DevRepository\CarRentalSystem\CarRentalSystem.Domain\obj\Debug\netstandard2.0\CarRentalSystem.Domain.AssemblyInfoInputs.cache
+F:\DevRepository\CarRentalSystem\CarRentalSystem.Domain\obj\Debug\netstandard2.0\CarRentalSystem.Domain.AssemblyInfo.cs
+F:\DevRepository\CarRentalSystem\CarRentalSystem.Domain\obj\Debug\netstandard2.0\CarRentalSystem.Domain.dll
+F:\DevRepository\CarRentalSystem\CarRentalSystem.Domain\obj\Debug\netstandard2.0\CarRentalSystem.Domain.pdb
+F:\DevRepository\CarRentalSystem\CarRentalSystem.Domain\obj\Debug\netstandard2.0\CarRentalSystem.Domain.csproj.CoreCompileInputs.cache

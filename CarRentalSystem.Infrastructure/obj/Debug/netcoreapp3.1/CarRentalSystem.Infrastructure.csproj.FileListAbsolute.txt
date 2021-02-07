@@ -1,0 +1,17 @@
+F:\DevRepository\CarRentalSystem\CarRentalSystem.Infrastructure\bin\Debug\netcoreapp3.1\CarRentalSystem.Infrastructure.deps.json
+F:\DevRepository\CarRentalSystem\CarRentalSystem.Infrastructure\bin\Debug\netcoreapp3.1\CarRentalSystem.Infrastructure.dll
+F:\DevRepository\CarRentalSystem\CarRentalSystem.Infrastructure\obj\Debug\netcoreapp3.1\CarRentalSystem.Infrastructure.csprojAssemblyReference.cache
+F:\DevRepository\CarRentalSystem\CarRentalSystem.Infrastructure\obj\Debug\netcoreapp3.1\CarRentalSystem.Infrastructure.AssemblyInfoInputs.cache
+F:\DevRepository\CarRentalSystem\CarRentalSystem.Infrastructure\obj\Debug\netcoreapp3.1\CarRentalSystem.Infrastructure.AssemblyInfo.cs
+F:\DevRepository\CarRentalSystem\CarRentalSystem.Infrastructure\bin\Debug\netcoreapp3.1\CarRentalSystem.Infrastructure.runtimeconfig.json
+F:\DevRepository\CarRentalSystem\CarRentalSystem.Infrastructure\bin\Debug\netcoreapp3.1\CarRentalSystem.Infrastructure.runtimeconfig.dev.json
+F:\DevRepository\CarRentalSystem\CarRentalSystem.Infrastructure\bin\Debug\netcoreapp3.1\CarRentalSystem.Infrastructure.pdb
+F:\DevRepository\CarRentalSystem\CarRentalSystem.Infrastructure\bin\Debug\netcoreapp3.1\CarRentalSystem.Domain.dll
+F:\DevRepository\CarRentalSystem\CarRentalSystem.Infrastructure\bin\Debug\netcoreapp3.1\CarRentalSystem.Domain.pdb
+F:\DevRepository\CarRentalSystem\CarRentalSystem.Infrastructure\obj\Debug\netcoreapp3.1\CarRentalSystem.Infrastructure.csproj.CoreCompileInputs.cache
+F:\DevRepository\CarRentalSystem\CarRentalSystem.Infrastructure\obj\Debug\netcoreapp3.1\CarRentalSystem.Infrastructure.csproj.CopyComplete
+F:\DevRepository\CarRentalSystem\CarRentalSystem.Infrastructure\obj\Debug\netcoreapp3.1\CarRentalSystem.Infrastructure.dll
+F:\DevRepository\CarRentalSystem\CarRentalSystem.Infrastructure\obj\Debug\netcoreapp3.1\CarRentalSystem.Infrastructure.pdb
+F:\DevRepository\CarRentalSystem\CarRentalSystem.Infrastructure\obj\Debug\netcoreapp3.1\CarRentalSystem.Infrastructure.genruntimeconfig.cache
+F:\DevRepository\CarRentalSystem\CarRentalSystem.Infrastructure\bin\Debug\netcoreapp3.1\CarRentalSystem.Application.dll
+F:\DevRepository\CarRentalSystem\CarRentalSystem.Infrastructure\bin\Debug\netcoreapp3.1\CarRentalSystem.Application.pdb
